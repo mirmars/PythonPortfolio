@@ -1,0 +1,5 @@
+This document is in development. It demonstrates dashboard building, currently using uploaded CSV format data sources which I have cleaned, prepped, and uploaded. 
+Custom Looker formulas have been made to produce metrics like tiered dimensions (see: age and income) and combined dimensions from related boolean columns (see: household status and education),
+as well as key marketing metrics like conversion rate and return on ad spend (ROAS).
+
+https://lookerstudio.google.com/reporting/46c702a8-5942-4f95-aec6-d238db8ccfa9
